@@ -22,5 +22,6 @@ Yoga, Meditation, Wellness, Mindfulness, Fitness, Relaxation, Guided Yoga, Stres
 ### Promotional Video  
 - **Video Title**: Discover ZenFlow  
 - **Duration**: 15 seconds  
-- **Link**: [Watch on YouTube]([https://youtube.com/example](https://youtu.be/hJbRpHZr_d0?si=qbVIzZSsfNBn1ose))  
+- **Link**: [Watch the Video on YouTube](https://www.youtube.com/embed/hJbRpHZr_d0?si=qsLrKNRPS6m4Dcq1)
+
 
