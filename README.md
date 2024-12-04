@@ -14,13 +14,10 @@ Yoga, Meditation, Wellness, Mindfulness, Fitness, Relaxation, Guided Yoga, Stres
 1. **Welcome Page**  
    ![Landing page](assets/LP.jpg)
 2. **Yoga Session Selection**  
-   ![Screenshot 2](screenshot2.png)  
+   ![Screenshot 2](assets/yoga2.jpg)  
 3. **Guided Meditation Interface**  
-   ![Screenshot 3](screenshot3.png)  
-4. **Progress Tracker Dashboard**  
-   ![Screenshot 4](screenshot4.png)  
-5. **Personalized Recommendations Page**  
-   ![Screenshot 5](screenshot5.png)  
+   ![Screenshot 3](assets/yoga3.jpg)  
+
 
 ### Promotional Video  
 - **Video Title**: Discover ZenFlow  
