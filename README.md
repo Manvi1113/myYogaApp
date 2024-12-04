@@ -12,7 +12,7 @@ Yoga, Meditation, Wellness, Mindfulness, Fitness, Relaxation, Guided Yoga, Stres
 ## Media Assets  
 ### Screenshots  
 1. **Welcome Page**  
-   ![Screenshot 1]((https://github.com/Manvi1113/myYogaApp/tree/main/assets/LP.jpg))  
+   ![Landing page](assets/LP.jpg)
 2. **Yoga Session Selection**  
    ![Screenshot 2](screenshot2.png)  
 3. **Guided Meditation Interface**  
